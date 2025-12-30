@@ -1,11 +1,11 @@
 ## SCRIPT AUTO ORDER BOT TELE BY API POTATO
 ## Installasi Otomatis
 ```bash
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update -y && apt install -y git && apt install -y curl && curl -L -k -sS https://raw.githubusercontent.com/arivpnstores/BotVPN/main/start -o start && bash start sellvpn && [ $? -eq 0 ] && rm -f start
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update -y && apt install -y git && apt install -y curl && curl -L -k -sS https://raw.githubusercontent.com/arfansaja/botvpn/main/start -o start && bash start sellvpn && [ $? -eq 0 ] && rm -f start
 ```
 ## UPDATE
 ```bash
-curl -sSL https://raw.githubusercontent.com/arivpnstores/BotVPN/main/update.sh -o update.sh && chmod +x update.sh && bash update.sh
+curl -sSL https://raw.githubusercontent.com/arfansaja/botvpn/main/update.sh -o update.sh && chmod +x update.sh && bash update.sh
 ```
 <img src="./ss.png" alt="image" width="500"/>
 
@@ -50,4 +50,4 @@ ganti txt hasil seniff anda
 NOTE : admin tidak menjual source bot ini, free gratis untuk kalian karena devloper asli nya juga tidak di jual belikan, anda membeli script BotVPN sc potato = anda di tipu, sekian terima gaji :)
 kasih uang jajan : https://rajaserverpremium.web.id/payment/
 
-Owner : https://t.me/ARI_VPN_STORE
+Owner : https://lintaspaket.cloud
