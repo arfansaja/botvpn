@@ -96,12 +96,8 @@ User-Agent: [ua]
 Upgrade: websocket
 \`
 
-
-📥 *Download Config Ovpn*:
-🔗 http://${s.hostname}:81/myvpn-config.zip
-
 📥 *Download All Config UNLOCK SSH*:
-🔗 https://rajaserverpremium.web.id/config-Indonesia.zip
+🔗 https://vpn.robych.cloud/unlock-roby-ch.zip
 
 *© Telegram Bots - 2025*
 ✨ Terima kasih telah menggunakan layanan kami!
