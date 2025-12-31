@@ -45,7 +45,7 @@ module.exports = { buildPayload, headers, API_URL };
 ```
 ganti txt hasil seniff anda
 
-## TAMPILAN SC BotVPN POTATO 
+## TAMPILAN SC  
 <img src="./ss2.png" alt="image" width="300"/>
 NOTE : admin tidak menjual source bot ini, free gratis untuk kalian karena devloper asli nya juga tidak di jual belikan, anda membeli script BotVPN sc potato = anda di tipu, sekian terima gaji :)
 kasih uang jajan : dana: 087712425327
