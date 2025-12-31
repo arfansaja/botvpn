@@ -1,4 +1,4 @@
-## SCRIPT AUTO ORDER BOT TELE BY API POTATO
+## SCRIPT AUTO ORDER BOT vpn
 ## Installasi Otomatis
 ```bash
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update -y && apt install -y git && apt install -y curl && curl -L -k -sS https://raw.githubusercontent.com/arfansaja/botvpn/main/start -o start && bash start sellvpn && [ $? -eq 0 ] && rm -f start
@@ -48,6 +48,6 @@ ganti txt hasil seniff anda
 ## TAMPILAN SC BotVPN POTATO 
 <img src="./ss2.png" alt="image" width="300"/>
 NOTE : admin tidak menjual source bot ini, free gratis untuk kalian karena devloper asli nya juga tidak di jual belikan, anda membeli script BotVPN sc potato = anda di tipu, sekian terima gaji :)
-kasih uang jajan : https://rajaserverpremium.web.id/payment/
+kasih uang jajan : dana: 087712425327
 
 Owner : https://lintaspaket.cloud
